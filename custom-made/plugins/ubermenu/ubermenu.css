@@ -1,0 +1,12 @@
+/* Ubermenu styles */
+body.ubermenu_menu_main.ubermenu_responsive_on .menu_mobile_button {
+	display:none;
+}
+body.ubermenu_menu_main.ubermenu_responsive_off.mobile_layout .menu_main_wrap nav.ubermenu {
+	display: none;
+}
+body.ubermenu_menu_main.ubermenu_responsive_off.mobile_layout .menu_mobile .menu_mobile-retractor,
+body.ubermenu_menu_main.ubermenu_responsive_off.mobile_layout .menu_mobile .menu_mobile-target-divider,
+body.ubermenu_menu_main.ubermenu_responsive_off.mobile_layout .menu_mobile .menu_mobile-target-description {
+	display:none;
+}
